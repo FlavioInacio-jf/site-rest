@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title><?php bloginfo('name'); ?> | <?php wp_title(''); ?> <?php the_field('title-seo'); ?></title>
+
+		<meta name="description" content="<?php bloginfo('name'); ?> - <?php wp_title(''); ?> <?php the_field('description-seo'); ?>"  >
+
+		<link href='https://fonts.googleapis.com/css?family=Alegreya+SC' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/style.css">
+
+    <!--Header Wordpress -->
+    <?php wp_head(); ?>
+    <!--Fecha Wordpress -->
+	</head>
+
+	<body>
+		
+		<header>
+			<nav>
+				<?php
+					$args = array (
+						'menu' => 'principal',
+						'container' => false
+					);
+					wp_nav_menu( $args );
+				?>
+			</nav>
+ 
+			<h1><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/rest.png" alt="Rest"></h1>
+
+			<?php $contato = 18; ?>
+			
+			<p><?php the_field('endereco-header', $contato); ?></p>
+			
+			<p class="telefone"><?php the_field('telefone-header', $contato); ?></p> <!--Busca um the_field que está dentro da pag´na contato -->
+		</header>
