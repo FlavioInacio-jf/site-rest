@@ -1,9 +1,5 @@
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/FlavioInacio-jf/README-site-rest?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/FlavioInacio-jf/README-site-rest">
-  
   <a href="https://github.com/FlavioInacio-jf/site-rest/issues">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/FlavioInacio-jf/site-rest">
   </a>
