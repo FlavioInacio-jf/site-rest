@@ -1,5 +1,9 @@
 
 <p align="center">
+	
+  <img src="https://img.shields.io/static/v1?label=PHP&message=26.3%&color=8892BF&style=<STYLE>&logo=<LOGO>">
+  <img src="https://img.shields.io/static/v1?label=CSS&message=73.7%&color=D4EDDA&style=<STYLE>&logo=<LOGO>">
+  
   <a href="https://github.com/FlavioInacio-jf/site-rest/issues">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/FlavioInacio-jf/site-rest">
   </a>
