@@ -166,7 +166,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Flávio Inácio</b></sub>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-in%C3%A1cio/)](https://www.linkedin.com/in/fl%C3%A1vio-in%C3%A1cio/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Flávio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-in%C3%A1cio/)](https://www.linkedin.com/in/fl%C3%A1vio-in%C3%A1cio/) 
 [![Gmail Badge](https://img.shields.io/badge/-jflavioinacio22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jflavioinacio@gmail.com)](mailto:jflavioinacio22@gmail.com)
 
 ---
